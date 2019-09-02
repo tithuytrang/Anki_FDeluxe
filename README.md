@@ -17,7 +17,7 @@ Here are the links for aforementioned apps:
 How to use:
   1. Open Anki, build your flashcards package
   2. Export to "Notes/Cards in Plain text", note the location of your export txt to fill in the python code
-  3. Check if the media files (imgs) is in this default directory 'C:/Users/[YOUR USERNAME]/AppData/Roaming/Anki2/User 1/collection.media/' (The part before Anki2 can be accessed via this shortcut, type in the address bar: %appdata%)
+  3. Check if the media files (imgs) is in this default directory "C:/Users/[YOUR USERNAME]/AppData/Roaming/Anki2/User 1/collection.media/" (The part before Anki2 can be accessed via this shortcut, type in the address bar: %appdata%)
      If that is the right folder, note its location and fill in the code (I have pointed it out in the source code)
   4. Change the directory of your export folder as you wish, in this case I have set 'E:/AnkiDeluxe' as the export folder
   5. Run the code. The export folder will have the text file (tab delimiter for uploading to Flashcards Deluxe server) and images you used in your deck
@@ -25,4 +25,5 @@ How to use:
 
 
 P/s: Hope this helps for anyone who is struggling with flashcards building. I made this quite long ago for personal purpose at first as I'm using Flashcards Deluxe on my phone. I'll consider upgrading it with more types of flashcards when I can find enough time (and interest).
-     I'll publish the Quizlet - Deluxe conversion Git as well. Happy learning !
+
+I'll publish the Quizlet - Deluxe conversion Git as well. Happy learning !
