@@ -1,6 +1,6 @@
 # Anki_FDeluxe
 
-<H1>Conversion flashcards from Anki to Flashcards Deluxe</H1>
+<H1>Conversion of flashcards from Anki to Flashcards Deluxe</H1>
 
 This snippet of code is used for the conversion from Anki (PC) to Flashcards deluxe. This is for the purpose of optimizing the speed of making flashcards (use Anki free on PC and then upload to Flashcards Deluxe server)
 This Git is one workaround for what mentioned in this thread: http://flashcardsdeluxe.com/forum/viewtopic.php?t=9
